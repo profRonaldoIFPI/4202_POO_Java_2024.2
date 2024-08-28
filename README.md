@@ -13,7 +13,8 @@ O repositório está organizado por aulas, e cada diretório corresponde a uma a
 *(Os conteúdos serão atualizados conforme o progresso das aulas.)*
 
 ---
-**Professor Ronaldo Pires Borges**
-**Instituto Federal do Piauí - Campus Floriano**  
+
+**Professor Ronaldo Borges**      
+*Instituto Federal do Piauí - Campus Floriano*     
 Curso Técnico em Informática - Turma 4202  
 Disciplina: Programação Orientada a Objetos
